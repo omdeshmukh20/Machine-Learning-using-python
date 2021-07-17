@@ -1,6 +1,6 @@
 #Discription: Load iris dataset
 #Date: 17/07/21
-#Author : Om Deshmukh
+#Author : Om Deshmukh.
 from sklearn.datasets import load_iris
 
 def main():
