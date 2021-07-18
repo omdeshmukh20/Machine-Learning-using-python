@@ -1,4 +1,4 @@
-#Discription: Accuracy of dicision tree classifier
+#Discription: Accuracy of dicision tree classifier.
 #Date: 18/07/21
 #Author : Om Deshmukh
 
