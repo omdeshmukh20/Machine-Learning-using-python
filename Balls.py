@@ -1,6 +1,6 @@
 #Discription: Identifying the type of ball. 
 #Date: 16/07/21
-#Author : Om Deshmukh.
+#Author : Om Deshmukh..
 
 from sklearn import tree
 # Rough 1
