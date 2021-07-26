@@ -1,4 +1,4 @@
-#Discription: Loading Data, Taking training and testing dataset, 
+#Discription:Loading Data, Taking training and testing dataset, 
 #             Getting result of Machine Learning model.
 #             Number of wrong answers by the ML model. 
 #             Taking Accuracy of KNN(K Nearest Neighbour)
