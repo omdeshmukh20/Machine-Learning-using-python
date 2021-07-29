@@ -2,7 +2,21 @@
 #Date: 16/07/21
 #Author : Om Deshmukh..
 
+#'''
+
+#Classifier        :   Decision Tree
+#Dataset           :   Balls Dataset
+#Features          :   Weight & Surface Type
+#Labels            :   Tennis And Cricket 
+#Training Dataset  :   15 Entries
+#Testing Dataset   :   1 Entry
+#Author            :   Prasad Dangare
+#Function Name     :   Balls_Dataset
+
+#'''
+
 from sklearn import tree
+
 # Rough 1
 # Smooth 0
 # Tennis 1
