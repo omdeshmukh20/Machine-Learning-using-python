@@ -1,4 +1,4 @@
-#Discription: Studing head brain datasett
+#Discription: Studing head brain dataset
 #Date: 21/07/21
 #Author : Om Deshmukh
 
