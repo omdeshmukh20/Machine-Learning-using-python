@@ -1,6 +1,6 @@
 #Discription: Studing head brain dataset
 #Date: 21/07/21
-#Author : Om Deshmuk
+#Author : Om Deshmukh
 
 import pandas as pd 
 import numpy as pd
